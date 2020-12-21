@@ -1,7 +1,7 @@
 name,ring,quadrant,isNew,description
-Symfony,Mainstr,Techniques,FALSE,<p>TBD</p>
-Symfony 123,Mainstr,Techniques,FALSE,<p>TBD</p>
-Symfony 45,Mainstr,Techniques,FALSE,<p>TBD</p>
+Symfony,Mainstream,Techniques,FALSE,<p>TBD</p>
+Symfony 123,Mainstream,Techniques,FALSE,<p>TBD</p>
+Symfony 45,Mainstream,Techniques,FALSE,<p>TBD</p>
 Micro frontends,Adopt,Techniques,FALSE,<p>TBD</p>
 Event Storming 0000,Assess,Techniques,FALSE,<p>TBD</p>
 Infrastructure as code,Adopt,Techniques,FALSE,<p>TBD</p>
