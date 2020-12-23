@@ -15,6 +15,7 @@ Development Lanes (Strategic/Tech/Fast),Hold,Techniques,FALSE,"<p>Because a team
 MySQL,Mainstream,Platforms-and-Infra,FALSE,<p>Relational database used primarily in PHP projects.</p>
 RabbitMQ,Mainstream,Platforms-and-Infra,FALSE,<p>RabbitMQ is one of the most popular open source message brokers. Used for queues on prem.</p>
 Kafka,Mainstream,Platforms-and-Infra,FALSE,"<p>Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications. Kafka is THE message bus to be used inside Emesa for async communication between micro-services.</p>"
+Jenkins,Mainstream,Platforms-and-Infra,FALSE,"<p>We use Jenkins for CI/CD and automating some jobs.</p>"
 Keycloak,Adopt,Platforms-and-Infra,FALSE,<p>Open Source Identity and Access Management. Used in Emesa as SSO for internal applications.</p>
 Apache Airflow,Adopt,Platforms-and-Infra,FALSE,"<p><strong>Apache Airflow</strong> is a platform created by the community to programmatically author, schedule and monitor workflows. Use Airflow for On-Prem setups.</p>"
 Docker ,Adopt,Platforms-and-Infra,FALSE,"<p>Docker is currently the most-used solution for creating and managing container-based infrastructures and deployments. Backed by services such as Kubernetes, we can deploy Docker containers on a flexible infrastructure and enable our developers to test their software more easily in different environments.</p>"
